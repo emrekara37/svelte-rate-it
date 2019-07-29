@@ -87,6 +87,8 @@ const beforeRate = rate => {
   showCount={true} />
 
 ```
+## Thanks
+ [@SinanMtl](https://github.com/SinanMtl)
 
 ## License
 
