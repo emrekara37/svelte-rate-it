@@ -3,8 +3,8 @@
 
   export let value = 0;
   export let name = "rate";
-  export let length;
-  export let showCount;
+  export let length = 5;
+  export let showCount=false;
   export let required = false;
   export let ratedesc = [];
   export let beforeRate;
