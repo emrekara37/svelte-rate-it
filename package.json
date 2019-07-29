@@ -1,5 +1,5 @@
 {
-  "name": "svelte-rate",
+  "name": "svelte-rate-it",
   "version": "1.0.0",
   "description": "Rate component for sveltejs",
   "main": "Rate.svelte",
@@ -13,7 +13,7 @@
     "rate",
     "plugin"
   ],
-  "author": "Emre KARA",
+  "author": "Emre KARA <emre.crpzz@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/emrekara37/svelte-rate/issues"
@@ -21,11 +21,11 @@
   "homepage": "https://github.com/emrekara37/svelte-rate#readme",
   "scripts": {
     "lint": "eslint \"*.svelte\"",
-    "format": "eslint --fix \"*.svelte\"",
-    "tag": "git tag -a v$npm_package_version -m 'Release v$npm_package_version'",
-    "release": "npm run version && git add package.json && git commit -m \"chore: release v$npm_package_version\"",
-    "prepublishOnly": "npm run release && npm run tag"
+    "format": "eslint --fix \"*.svelte\""
   },
+  "files":[
+    "Rate.svelte"
+  ],
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
