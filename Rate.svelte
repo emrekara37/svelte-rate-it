@@ -16,7 +16,6 @@
   let rate = 0;
   let over = 0;
   $: if (value) {
-    console.log(value);
     rate = convertValue(value);
     over = convertValue(value);
   }
