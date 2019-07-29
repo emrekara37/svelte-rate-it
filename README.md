@@ -1,14 +1,20 @@
 # Svelte Rate
 
 > Rate component for Svelte. Based on [vue-rate](https://github.com/SinanMtl/vue-rate).
+Thanks [@SinanMtl](https://github.com/SinanMtl)
 
 ## Installation and usage
 
-Once, install rate component for your project
+Install rate component for your project
 
 ```bash
 npm install svelte-rate --save
 ```
+or with yarn
+```bash
+yarn add svelte-rate
+```
+
 
 Import Svelte Rate into your app
 
@@ -37,7 +43,7 @@ Use HTML template
 <Rate length={5} value={2} />
 ```
 
-- `showcount {boolean}`: Shows rate number when mouseover the star.
+- `showCount {boolean}`: Shows rate number when mouseover the star.
 
 ```html
 <Rate length={5} showCount={true} />
@@ -87,9 +93,4 @@ const beforeRate = rate => {
   showCount={true} />
 
 ```
-## Thanks
- [@SinanMtl](https://github.com/SinanMtl)
 
-## License
-
-MIT.
