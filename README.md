@@ -1,4 +1,4 @@
-# Svelte Rate
+# Svelte Rate It
 
 > Rate component for Svelte. Based on [vue-rate](https://github.com/SinanMtl/vue-rate).
 Thanks [@SinanMtl](https://github.com/SinanMtl)
@@ -8,18 +8,18 @@ Thanks [@SinanMtl](https://github.com/SinanMtl)
 Install rate component for your project
 
 ```bash
-npm install svelte-rate --save
+npm install svelte-rate-it --save
 ```
 or with yarn
 ```bash
-yarn add svelte-rate
+yarn add svelte-rate-it
 ```
 
 
 Import Svelte Rate into your app
 
 ```javascript
-import Rate from "Rate.svelte";
+import Rate from "svelte-rate-it/Rate.svelte";
 
 ```
 
