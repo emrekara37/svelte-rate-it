@@ -155,8 +155,6 @@
         </symbol>
       </defs>
     </svg>
-    <input type="hidden" {name} bind:value={rate} {required} />
-
     {#each arr as n}
       <button
         type="button"
