@@ -7,7 +7,7 @@
 Once, install rate component for your project
 
 ```bash
-npm install svlete-rate --save
+npm install svelte-rate --save
 ```
 
 Import Svelte Rate into your app
