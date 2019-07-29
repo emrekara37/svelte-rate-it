@@ -6,7 +6,7 @@
   "svelte": "Rate.svelte",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emrekara37/svelte-rate.git"
+    "url": "git+https://github.com/emrekara37/svelte-rate-it.git"
   },
   "keywords": [
     "swelte",
@@ -16,9 +16,9 @@
   "author": "Emre KARA <emre.crpzz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emrekara37/svelte-rate/issues"
+    "url": "https://github.com/emrekara37/svelte-rate-it/issues"
   },
-  "homepage": "https://github.com/emrekara37/svelte-rate#readme",
+  "homepage": "https://github.com/emrekara37/svelte-rate-it#readme",
   "scripts": {
     "lint": "eslint \"*.svelte\"",
     "format": "eslint --fix \"*.svelte\""
