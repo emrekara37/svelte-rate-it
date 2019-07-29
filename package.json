@@ -1,6 +1,6 @@
 {
   "name": "svelte-rate-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rate component for sveltejs",
   "main": "Rate.svelte",
   "svelte": "Rate.svelte",
