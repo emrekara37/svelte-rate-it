@@ -1,5 +1,5 @@
 <script>
-  import Rate from "../../Rate.Rate";
+  import Rate from "../../Rate.svelte";
 
   const beforeRate = rate => {
     console.log(rate);
