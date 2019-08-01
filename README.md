@@ -3,7 +3,7 @@
 > Rate component for Svelte. Based on [vue-rate](https://github.com/SinanMtl/vue-rate).
 Thanks [@SinanMtl](https://github.com/SinanMtl)
 
-> [Demo](https://codesandbox.io/s/svelte-rate-ywzbg)
+> [Demo](https://svelte.dev/repl/d0df2df581d9438eabdcd529be759812)
 
 ## Installation and usage
 
