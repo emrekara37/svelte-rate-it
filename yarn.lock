@@ -1279,9 +1279,9 @@ supports-color@^5.3.0:
     has-flag "^3.0.0"
 
 svelte@^3.4.1:
-  version "3.6.9"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.6.9.tgz#949f4674329d04d3281f7cf340285ae3480f28da"
-  integrity sha512-k72cp0LYzennT7xgnQU0jB2HJEZ/fQamZbrHJO6JlvsNX+z6a1YJaLrtN4qQ1yfozUkeGw1TOvDxo8a5grOZMg==
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.7.0.tgz#242030f8862c7200264f8e67df611a101fa87727"
+  integrity sha512-Qp5qxdYghSwXADCdaTLmL4gDUzhSfi6X7oWDJaEGJQXkCn1a8zxIBDJe2oQS6oHQzZqwvcppPqIoOySNLRw34w==
 
 table@^5.2.3:
   version "5.4.4"
