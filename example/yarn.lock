@@ -1732,10 +1732,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svelte@^3.0.0:
-  version "3.6.9"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.6.9.tgz#949f4674329d04d3281f7cf340285ae3480f28da"
-  integrity sha512-k72cp0LYzennT7xgnQU0jB2HJEZ/fQamZbrHJO6JlvsNX+z6a1YJaLrtN4qQ1yfozUkeGw1TOvDxo8a5grOZMg==
+svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
+  integrity sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==
 
 tar@^4:
   version "4.4.10"
